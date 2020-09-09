@@ -1,0 +1,936 @@
+/*Smartphones*/
+@media (min-width: 320px) {
+
+}
+
+/*Smartphones*/
+@media (min-width: 360px) {
+
+}
+
+/*Smartphones*/
+@media only screen and (max-width: 620px){
+.banner-area{height: 400px;}
+.banner-title{font-size: 42px;
+line-height: 44px;
+margin-bottom: 20px;}
+.banner-content-area{width: 95%;}
+p{line-height: 18px;}
+.view-btn{margin-top: 0;}
+.vdo-leftsec{    padding: 10px 0;}
+.vdo-title{font-size: 42px;
+line-height: 44px;}
+.vdo-area{padding-top: inherit;}
+.vdo-container{
+        border-top-left-radius: inherit;
+    border-bottom-left-radius: inherit;
+    overflow: inherit;
+}
+.section-space-top{padding-top: 60px;}
+.why-block{margin: 20px 0}
+.mt-50{margin-top: 20px}
+.progress-contain{padding-top: 60px;
+padding-bottom: 60px;}
+.progress-main-box{width: 120px;
+height: 120px;
+padding: 10px;}
+.prg-sub-box{height: 100px;
+width: 100px;
+padding:10px;
+line-height: 50px;}
+.prg-sub-box img{width: 40px;}
+.prg-sub-box p{margin-top: 0}
+.prog-resp-box{    background: #fff;
+    padding: 30px 20px;
+    box-shadow: 0 0 8px 4px #e2e2e280;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 15px;}
+    .d-none{display: none;}
+.mb-80{margin-bottom: 30px;}
+.skill-section{padding: 15px;}
+.offers-section{padding-top: 60px;
+padding-bottom: 60px;}
+.offering-tile{font-size: 32px !important; }
+.footer-btn{margin-bottom: 30px;}
+
+
+
+}
+
+/*Tablets*/
+@media (min-width: 768px) {
+       
+    .banner-english .btn-req {
+       
+        /*padding: 10px 40px!important;*/
+    }
+    .btn:hover{
+        transform: scale(1.1);
+    }
+    .navbar {
+        min-height: 60px;
+    }
+    .hero-title {
+        font-size: 48px;
+        color: #fff;
+        line-height: 38px;
+    }
+    .navbar-brand{
+        height: initial;
+    }
+
+    .hero-subtitle {
+        color: #fff;
+        font-size: 20px;
+        line-height: 25px;
+        /* margin: 0px; */
+        font-weight: 700;
+    }
+    .banner-english .hero-subtitle {
+        color: #d88000;
+        font-size: 30px;
+        line-height: 25px;
+      
+        text-shadow: 0px 0px 6px #fff;
+        font-weight: 700;      
+    }
+    .navbar-brand>img {
+        width: 100%;
+    }
+    .navbar-collapse.collapse{
+        display: none!important;
+    }
+    .navbar-toggle{
+        display: block!important;
+    }
+    .navbar-collapse.collapse.in{
+        display: block!important;
+        border-top: 1px solid #824391;
+    }
+    .navbar-header{
+        float: none!important;
+        padding: 0px 20px;
+    }
+    .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a {
+       line-height: 40px;
+        font-size: 10px;
+        padding: 10px 4px;
+    }
+    #banner-section {
+        margin-top: 86px;
+    }
+      .right-header{
+         display: flex;
+         align-items: center;
+         height: 86px;
+      }
+
+  .why-content p {
+    font-size: 20px;
+        line-height: 22px;
+    }
+   .title {
+        margin-bottom: 40px;
+    }
+    .star-pencil-background{
+        background-position: bottom;
+    }
+    .left-pencil-back{
+        background-image: url('../images/whyus/left-pencil-back.png');
+        padding: 10px 0px;
+        background-position: bottom;
+    }
+    .offer-block:hover {
+        transform: scale(1.1);
+        box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+        z-index: 9;
+        position: relative;
+    }
+    /*teacher.............................*/
+    .teacher-block{
+        height: 260px;
+    }
+    /*parent...........................*/
+    .mg-bot-0{
+        margin-bottom: 0px;
+    }
+    .mg-bot-10{
+         margin-bottom: 10px;
+    }
+    .custom-container {
+        display: table;
+        width: 90%;
+        margin: auto;
+    }
+    .for-parent-background{
+        background-image: url(../images/parents/for-parent-background.png);
+        background-position: top;
+        background-size: cover;
+        padding-top: 200px!important;
+        margin-top: -66px;
+        padding-bottom: 200px!important;
+    }
+     .philosophy-background{
+        background-image: url(../images/about/OurPhilosophy-background.png);
+        background-position: top;
+        background-size: cover;
+        padding-top: 100px!important;
+        margin-top: -66px;
+
+    }
+     .howItWorks-background{
+        background-image: url(../images/howItWorks/how-it-works-background.png);
+        background-position: top;
+        background-size: cover;
+    }
+    .shape-parent{
+        margin-top: -132px;
+    }
+
+
+    /*about..................................................*/
+   .team-block{
+     /*min-height: 495px;*/
+   }
+
+
+   /*login-page*/
+   .login-block {
+        width: 80%;
+        margin: 100px auto;
+        box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1607843137254902);
+        border-radius: 15px;
+        overflow: hidden;
+        background: #fff;
+    }
+    .login-small-block {
+        width: 40%;
+    }
+
+
+    .login-left {
+        align-self: center;
+        padding: 40px 26px;
+        width: 50%;
+    }
+    .login-right {
+        width: 50%;
+    }
+    .img-log img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    }
+    .img-log {
+        height: 100%;
+    }
+
+    .instruckos-slider .owl-item.active.center .instrocko-detail{
+        display: block;
+        width: 350px;
+        text-align: center;
+        left: -82%;
+        position: relative;
+    }
+    .img-cartoon {
+    width: 200px;
+    height: auto;
+    }
+    .story-section {
+        padding: 60px 0px;
+    }
+    .title-story {
+    font-size: 24px;
+    color: #000;
+    }
+     .title-story:hover {
+    color: #0c838d;
+    }
+    .story-content {
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+   .single-feature{
+        padding: 30px;
+   }
+   .num-block{
+        font-size: 40px;
+   }
+   .feature-detail{
+        font-size: 14px;
+   }
+}
+
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+    .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a
+    {
+        padding: 10px 14px;
+    }
+    .login-right{
+    	display: none;
+    }
+    .login-left{
+    	width: 100%;
+    }
+    .login-small-block{
+    	width: 60%;
+    }
+     .package-block {
+        margin:2%;
+        width: 46%;
+    }
+    .flex-block.packages-full{
+        flex-wrap: wrap;
+
+    }
+}
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+  .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a
+    {
+        padding: 10px 14px;
+    }
+    .why-content p{
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .why-block{
+        margin: 10px;
+    }
+    .why-logo{
+        width: 56px;
+        height: 56px;
+        line-height: 56px;
+    }
+    .why-logo img{
+        /*width: 50px;*/
+    }
+
+    .outcom-lists li p{
+        font-size: 16px;
+    }
+    .block-works p{
+        font-size: 16px;
+    }
+    .instrucko-name{
+        font-size: 16px;
+    }
+    .num-block{
+        font-size: 60px;
+    }
+    .testi-content h3{
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .package-block{
+        margin:0px;
+        padding:10px;
+    }
+}
+/*Ipad*/
+@media (min-width: 992px) {
+    .navbar {
+        min-height: 60px;
+    }
+    .navbar-brand>img {
+        /*width: 150px;*/
+    }
+
+    .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a {
+
+        font-size: 14px;
+        padding: 10px 14px;
+    }
+
+    .navbar-nav {
+        margin-right: 0px !important;
+    }
+
+  /*  #banner-section {
+        margin-top: 60px;
+    }   */
+
+
+}
+
+/*Desktops*/
+@media (min-width: 1200px) {
+
+    .teacher-block{
+        height: 300px;
+    }
+    .why-in-content{
+        padding: 0px 70px;
+    }
+
+    .navbar {
+        min-height: 72px;
+    }
+
+    .navbar-brand>img {
+        /*width: 58%;*/
+    }
+
+    .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a {
+        font-size: 14px;
+        padding: 10px 17px;
+    }
+
+    #banner-section {
+        margin-top: 90px;
+    }
+
+    /*parent*/
+    .custom-container{
+        width: 85%;
+    }
+
+
+
+}
+@media (min-width: 1280px) {
+    .hero-title{
+        font-size: 60px;
+        line-height: 50px;
+    }
+    .banner-content{
+        width: 50%;
+    }
+
+}
+@media (min-width: 1366px) {
+
+    .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a {
+
+    }
+
+    .navbar {
+        min-height: 76px;
+    }
+    .outcome-container{
+        width: 85%;
+    }
+
+
+}
+
+@media (min-width: 1441px) {
+
+    .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a {
+        font-size: 16px;
+
+    }
+    .instrucko-container{
+        width: 100%;
+    }
+    .navbar {
+        min-height: 75px;
+    }
+
+    .section-space {
+        padding: 80px 0px;
+    }
+    .btn-green, .btn-dark {
+        font-size: 14px;
+        padding: 5px 20px;
+    }
+   .hero-title{
+        font-size: 80px;
+        line-height: 65px;
+   }
+   .hero-subtitle{
+        font-size: 24px;
+        line-height: 44px;
+   }
+   .instruckos-slider .owl-item.active{
+    height: 230px;
+   }
+    .custom-container{
+        width: 75%;
+    }
+    .custom-container-big{
+    width: 75%;
+    }
+    .team-block{
+        margin: 10px;
+    }
+    .login-block {
+        width: 60%;
+        margin: 100px auto;
+    }
+    .login-small-block {
+        width: 30%;
+    }
+    .instruckos-slider .owl-item.active.center .instrocko-detail{
+        left: -71%;
+    }
+    .package-block {
+        margin:2%;
+    }
+}
+
+@media (min-width: 1600px){
+  .star-pencil-background{
+        background-position: top;
+    }
+    .left-pencil-back{
+        padding: 100px 0px;
+        background-position: top;
+    }
+    .for-parent-background{
+        padding-top: 400px!important;
+        margin-top: -162px;
+    }
+    .step-content p{
+        font-size: 19px;
+        line-height: 20px;
+    }
+    .step-img {
+        width: 90px;
+    }
+     .banner-english .btn-req {
+        font-size: 14px!important;
+        padding: 10px 40px!important;
+    }
+}
+
+@media (min-width: 1920px){
+
+}
+
+@media (max-width: 767px){
+    .banner{
+         background-image: url('../images/home/banner_mobile.png');
+    }
+    .banner-english .banner{   
+        height: 33vh;     
+        background-size: contain;   
+        background-color: #daf0f2;
+
+    }
+    .banner-english .banner-content {
+    position: absolute;
+    bottom: 6%;
+     left: initial; 
+    width: 100%;
+    color: #e07f27;
+    font-weight: 700;
+    text-align: center;
+}
+
+    div#banner-section{
+        padding-top: 60px;
+    }
+    .navbar{
+        min-height: 60px;
+    }
+    .navbar-brand>img{
+        width: 150px;
+    }
+    .btn-mob-header {
+        display: inline-block;
+        float: left;
+        margin-right: 5px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+   .section-space{
+    padding:50px 0px;
+   }
+   .why-content p {
+    font-size: 16px;
+    }
+    .why-logo{
+        width: 56px;
+        height: 56px;
+        line-height: 56px;
+    }
+    .why-logo img{
+        /*width: 50%;*/
+    }
+    section.why-instrucko{
+        background-position: right;
+    }
+    .outcome-container{
+        width: 100%;
+        padding:50px 30px;
+        margin-top: 30px;
+    }
+    .outcom-lists li p{
+        font-size: 16px;
+        margin-bottom: 0px;
+        line-height: 18px;
+        padding: 10px 0px;
+    }
+   .navbar-collapse{
+   	padding-right: 0px;
+   	padding-left: 0px;
+   }
+    ul.inner-content li{
+        line-height: 20px;
+        /*padding: 10px 10px;*/
+    }
+    .outcom-lists ul li:last-child{
+        border-bottom: none;
+    }
+    .title {
+    margin-bottom: 25px;
+
+    }
+    .title-block{
+        font-size: 18px;
+    }
+    p{
+     font-size: 16px!important;
+     /*line-height: 18px!important;*/
+    }
+    .block-works p{
+        font-size: 16px;
+    }
+    .instrucko-container{
+        padding: 30px 0px;
+        width: 100%;
+    }
+
+    .instrucko-name{
+        font-size: 17px;
+    }
+
+    .instrucko-place{
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .block-feature{
+        flex-wrap: wrap;
+    }
+    .feature-detail{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .single-feature{
+        width: 50%;
+        padding: 20px;
+    }
+
+    .num-block{
+        font-size: 32px;
+    }
+    .testi-content{
+        width: 100%;
+    }
+    .testi-content h3{
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .name-testi{
+        font-size: 16px;
+    }
+    .testi-profile{
+        font-size: 14px;
+    }
+    .footer{
+        padding: 50px 10px;
+    }
+    .address{
+        font-size: 14px;
+    }
+    .footer a{
+        font-size: 12px;
+    }
+   /* ul.social-links{
+        float: right;
+    }*/
+    .social-block{
+        padding: 0px 30px;
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: baseline;
+        justify-content: space-between;
+    }
+
+    .call-btn{
+        position: fixed;
+        right: 20px;
+        bottom: 13%;
+    }
+    .popup-contact{
+        width: inherit;
+        position: fixed;
+    }
+
+
+    /*why us page....................................*/
+    .title-lang{
+        font-size: 18px;
+    }
+    .lang-img{
+        padding-right: 20px;
+    }
+    img.img-cartoon{
+        width: 100px;
+        height: auto;
+    }
+    .title-eng{
+        font-size: 18px;
+    }
+    .mg-100{
+        margin-top: 30px;
+    }
+    .lang-content p{
+    	line-height: 18px;
+    }
+    .mob-shape{
+        transform: scale(1.5);
+    }
+    .left-pencil-back{
+        background-image:none;
+        padding: 40px 0px 0px;
+        overflow-x: hidden;
+    }
+    .whyhindi {
+        background-image: url(../images/whyus/left-pencil-back-mobile.png);
+        background-size: cover;
+        padding: 100px 20px 100px;
+        background-position: top;
+    }
+    .lang-block{
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    /*teacher..........................................*/
+    .teacher-block{
+        height: 250px;
+        border-radius: 0px;
+    }
+    .why-in-content{
+        padding: 0px 17px;
+        width: 50%;
+    }
+    .why-in-img{
+        width: 50%;
+    }
+    .whyhindi p{
+    	line-height: 18px;
+    }
+
+    /*parent*/
+    .shape-margin{
+        margin-top: 0px;
+        padding: 0px 0px 40px;
+    }
+    .for-parent-background{
+       background-image: url(../images/parents/for-parent-background-mob.png);
+
+    }
+    .grey-background{
+        display: none;
+    }
+    .grey-background-top-img{
+        opacity: 0.4;
+    }
+    /*about................................................*/
+    .team-block{
+        margin:25px;
+    }
+    .team-profile{
+        font-size: 14px;
+    }
+    .team-detail{
+    	line-height: 18px;
+    }
+
+    /*login pages*/
+    .login-right{
+    	display: none;
+    }
+    .login-block {
+	    background: #fff;
+	    width: 90%;
+	    margin: 50px auto;
+	}
+	.login-block h3{
+		font-size: 22px;
+	}
+
+	/*sign up*/
+	.row-grp{
+		/*margin:0px;*/
+	}
+	.block-pd{
+		padding: 0px;
+	}
+
+    /*offerings*/
+    .nav.tabs-offer>li>a{
+        padding: 5px 10px;
+
+    }
+    .tabs-offer a{
+        font-size: 14px;
+    }
+    ul.nav.nav-tabs.tabs-offer{
+        margin: 30px 0px 30px;
+    }
+    .offer-block{
+        width: initial;
+        margin: 0px 0px 10px;
+    }
+
+    /*form new*/
+    .dur-img img{
+        width: 15px;
+    }
+    .flex-block.duration-block, .flex-block.days-block{
+        width: 100%;
+    }
+    .duration-title h4{
+        font-size: 16px;
+        line-height: 8px;
+    }
+    span.duration-subtitle{
+        font-size: 10px;
+    }
+    .single-dur-block{
+       text-align: center;
+       width: 31%;
+       padding: 10px 0px;
+    }
+
+    /*how it works*/
+     .step-block.down-arrow:after{
+        display: none;
+     }
+    .step-block.right-arrow:after{
+        right: initial;
+        left: 39%;
+        transform: rotate(90deg);
+        bottom: 0;
+        display: none;
+    }
+    .step-block.left-arrow:after{
+        left: 48%;
+        top:initial;
+        bottom: 0px;
+        transform: rotate(-90deg);
+        display: none;
+    }
+   .step-block{
+        margin:10px;
+        align-items: center;
+        min-height: initial;
+    }
+    .step-block{
+        flex-direction: row;
+        border: none;
+        box-shadow: none;
+        padding: 0px;
+        text-align: left;
+        margin: 0px;
+    }
+    .step-img{
+        width: 30%;
+    }
+    .step-content{
+        min-height: initial;
+        width: 70%;
+    }
+    .shape-how-it-works{
+        margin:40px auto 60px;
+    }
+    .howItWorks-background{
+        background-image: url(../images/howItWorks/how-it-works-mob-back.png);
+        overflow: hidden;
+    }
+
+    .offer-color span{
+    	top: 36px;
+  		left: 79px;
+    }
+   .why-block{
+   	min-height: 76px;
+   }
+   .why-logo{
+    align-self: center;
+   }
+    .title-story {
+    font-size: 20px;
+    color: #000;
+    }
+     .title-story:hover {
+    color: #0c838d;
+    }
+    .story-content {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .popup-contact{
+        width: 81%;
+    }
+    .popup-contry{
+        font-size: 12px;
+    }
+    .popu-contact-content a{
+        line-height: 20px;
+    }
+    i.close-contact-popup{
+        font-size: 16px;
+    }
+     .package-block {
+        margin:0%;
+        width: 50%;
+        padding: 5px;
+    }
+    .flex-block.packages-full{
+        flex-wrap: wrap;
+    }
+    .package-block .line-offer{
+        font-size: 13px!important;
+    }
+     .package-block .offer-time{
+        font-size: 12px!important;
+        line-height: 15px!important;
+     }
+     .package-block .title-offer{
+        margin-top: 20px;
+          font-size: 13px!important;
+     }
+     .package-block label{
+        margin-top: 5px;
+     }
+     .step-img img{
+        width: 200px;
+     }
+     .custom-container .col-md-12{
+        display: table;
+     }
+     .single-row{
+        flex-direction: column;
+     }
+     p.data-title{
+        width: 100%;
+     }
+     .right-block-summary{
+        margin-top: 10px;
+     }
+     /*blog*/
+     .post-title{
+        font-size: 18px;
+     }
+     .featured{
+        margin-bottom: 20px;
+        padding: 10px;
+     }
+     .blog-background{
+        background-size: auto;
+     }
+}

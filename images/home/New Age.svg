@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="97" viewBox="0 0 97 97">
+  <g id="New_Age" data-name="New Age" transform="translate(-0.17)">
+    <path id="Path_1029" data-name="Path 1029" d="M73.677,33.357a1.675,1.675,0,0,0,.626-1.307V23.729A1.675,1.675,0,0,0,71.935,22.2l-18.1,8.225H49.7a10.051,10.051,0,1,0-11.089,0H34.465L16.374,22.2A1.675,1.675,0,0,0,14,23.729v8.322a1.675,1.675,0,0,0,.627,1.307L30.751,46.309V55.5L25.769,76.953A1.675,1.675,0,0,0,27.4,79.007H37.451a1.675,1.675,0,0,0,1.588-1.142l5.112-15.24,5.112,15.243a1.675,1.675,0,0,0,1.588,1.139H60.9a1.675,1.675,0,0,0,1.632-2.054L57.553,55.5V46.309Zm-29.525-18a6.7,6.7,0,1,1-6.7,6.7A6.7,6.7,0,0,1,44.152,15.353Zm10.094,40.72,4.548,19.584H52.057L45.74,56.825a1.675,1.675,0,0,0-3.183,0l-6.31,18.831H29.51l4.548-19.584a1.705,1.705,0,0,0,.044-.379V45.5a1.675,1.675,0,0,0-.626-1.3L17.35,31.248V26.33l16.058,7.3a1.675,1.675,0,0,0,.693.151H54.2a1.675,1.675,0,0,0,.693-.151l16.058-7.3v4.918L54.829,44.2a1.675,1.675,0,0,0-.626,1.3v10.19a1.705,1.705,0,0,0,.044.379Z" transform="translate(4.64 3.073)" fill="#e07e26"/>
+    <rect id="Rectangle_160" data-name="Rectangle 160" width="4" height="7" transform="translate(47.17)" fill="#e07e26"/>
+    <rect id="Rectangle_161" data-name="Rectangle 161" width="4" height="7" transform="translate(47.17 90)" fill="#e07e26"/>
+    <rect id="Rectangle_162" data-name="Rectangle 162" width="6" height="4" transform="translate(91.17 47)" fill="#e07e26"/>
+    <rect id="Rectangle_163" data-name="Rectangle 163" width="7" height="4" transform="translate(0.17 47)" fill="#e07e26"/>
+    <rect id="Rectangle_164" data-name="Rectangle 164" width="6.7" height="3.35" transform="translate(77.219 17.781) rotate(-45)" fill="#e07e26"/>
+    <rect id="Rectangle_165" data-name="Rectangle 165" width="6.7" height="3.35" transform="translate(13.257 81.744) rotate(-45)" fill="#e07e26"/>
+    <rect id="Rectangle_166" data-name="Rectangle 166" width="3.35" height="6.7" transform="translate(77.22 79.375) rotate(-45)" fill="#e07e26"/>
+    <rect id="Rectangle_167" data-name="Rectangle 167" width="3.35" height="6.7" transform="translate(13.256 15.412) rotate(-45)" fill="#e07e26"/>
+  </g>
+</svg>
